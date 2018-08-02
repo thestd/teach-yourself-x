@@ -5,8 +5,8 @@
 # Table of contents
 
 - [😇 Inspiration](#-inspiration)
-- [✍️ Notation](#%EF%B8%8F-notation)
-- [🖥 Technologies](#%F0%9F%96%A5-technologies)
+- [✍️ Notation](#-notation)
+- [🖥 Technologies](#-technologies)
   - [💎 Ruby](#-ruby)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
