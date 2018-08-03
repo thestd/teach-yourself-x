@@ -16,11 +16,11 @@
 
 # 😇 Inspiration / Натхнення
 
-> As the [repository author](https://github.com/faradzhev), I've got an inspiration from @danistefanovic with his [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) repo of tutorial links to build an X technology from scratch.
+> As the [repository author](https://github.com/faradzhev), I've got an inspiration from [@danistefanovic](https://github.com/danistefanovic) with his [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) repo of tutorial links to build an X technology from scratch.
 So I bumped into idea to collect study resources into one repository - as much resources as I can find.
 The purpose of this - share the knowledge around Ukraine.
 
-> Як [автор рерозиторію](https://github.com/faradzhev), я отримав натхнення від @danistefanovic з його репозиторію [build-your-own-x](https://github.com/danistefanovic/build-your-own-x), що містить посилання на різні інструкції про створення власної X технології з нуля.
+> Як [автор рерозиторію](https://github.com/faradzhev), я отримав натхнення від [@danistefanovic](https://github.com/danistefanovic) з його репозиторію [build-your-own-x](https://github.com/danistefanovic/build-your-own-x), що містить посилання на різні інструкції про створення власної X технології з нуля.
 Мене охопила ідея зібрати навчальні ресурси в один репозиторій - стільки ресурсів, скільки я зможу знайти.
 Мета цього - поширювати знання в Україні.
 
