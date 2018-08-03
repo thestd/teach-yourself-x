@@ -7,8 +7,9 @@
 
 - [😇 Inspiration](#-inspiration)
 - [✍️ Note](#%EF%B8%8F-note)
+- [❤️ Contributing](#-contributing)
 - [🖥 Technologies](#%F0%9F%96%A5-technologies)
-  - [Programming languages](#programming-languages)
+  - [⌨️ Programming languages](#-programming-languages)
     - [💎 Ruby](#-ruby)
     - [🐍 Python](#-python)
     - [⛏ С](#%E2%9B%8F-%D1%81)
@@ -30,14 +31,21 @@ The purpose of this - share the knowledge around Ukraine.
 
 # ✍️ Note
 
-> You'll find 🇬🇧 English and 🇺🇦 Ukrainian resources here. Free and 💲 Paid.
+> You'll find 🇬🇧 English and 🇺🇦 Ukrainian resources here.
+Free and 💲 Paid.
 
-> Ви знайдете тут ресурси 🇬🇧 англійською та 🇺🇦 українською мовами. Безкоштовні та 💲 платні.
+> Ви знайдете тут ресурси 🇬🇧 англійською та 🇺🇦 українською мовами.
+Безкоштовні та 💲 платні.
 
-# Contributing
+# ❤️ Contributing
+> We're opened to contributing. We love contributing. We contribute.
+Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) to add more resources into the repository.
+
+> Ми відкриті до внесків. Ми обожнюємо внески. Ми робимо внески.
+Будь ласка, [відкрийте issue](https://github.com/thestd/teach-yourself-x/issues/new), аби додати більше ресурсів до репозиторію.
 
 # 🖥 Technologies
-## Programming languages
+## ⌨️ Programming languages
 
 ### 💎 Ruby
 * [💲🇬🇧 item 1](#link1)
