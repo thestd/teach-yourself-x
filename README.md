@@ -30,29 +30,29 @@ The purpose of this - share the knowledge around Ukraine.
 
 # ✍️ Notation / Нотатка
 
-> You'll find English and Ukrainian resources here.
+> You'll find 🇬🇧 English and 🇺🇦 Ukrainian resources here.
 
-> Ви знайдете тут ресурси англійською та українською мовами.
+> Ви знайдете тут ресурси 🇬🇧 англійською та 🇺🇦 українською мовами.
 
 # 🖥 Technologies / Технології
 ## Programming languages / Мови програмування
 
 ### 💎 Ruby
-* [item 1](#link1)
-* [item 2](#link2)
+* [🇬🇧 item 1](#link1)
+* [🇺🇦 item 2](#link2)
 
 ### 🐍 Python
-* [item 1](#link1)
-* [item 2](#link2)
+* [🇬🇧 item 1](#link1)
+* [🇺🇦 item 2](#link2)
 
 ### ⛏ С
-* [item 1](#link1)
-* [item 2](#link2)
+* [🇬🇧 item 1](#link1)
+* [🇺🇦 item 2](#link2)
 
 ### ➕ С++
-* [item 1](#link1)
-* [item 2](#link2)
+* [🇬🇧 item 1](#link1)
+* [🇺🇦 item 2](#link2)
 
 ### #️⃣ С#
-* [item 1](#link1)
-* [item 2](#link2)
+* [🇬🇧 item 1](#link1)
+* [🇺🇦 item 2](#link2)
