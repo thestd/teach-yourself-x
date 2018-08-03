@@ -10,6 +10,11 @@
 - [🖥 Technologies / Технології](#%F0%9F%96%A5-technologies--%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97)
   - [Programming languages / Мови програмування](#programming-languages--%D0%BC%D0%BE%D0%B2%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
     - [💎 Ruby](#-ruby)
+    - [🐍 Python](#-python)
+    - [⛏ С](#%E2%9B%8F-%D1%81)
+    - [➕ С++](#-%D1%81)
+    - [#️⃣ С](#%EF%B8%8F%E2%83%A3-%D1%81)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -35,15 +40,19 @@ The purpose of this - share the knowledge around Ukraine.
 ### 💎 Ruby
 * [item 1](#link1)
 * [item 2](#link2)
+
 ### 🐍 Python
 * [item 1](#link1)
 * [item 2](#link2)
+
 ### ⛏ С
 * [item 1](#link1)
 * [item 2](#link2)
+
 ### ➕ С++
 * [item 1](#link1)
 * [item 2](#link2)
+
 ### #️⃣ С#
 * [item 1](#link1)
 * [item 2](#link2)
