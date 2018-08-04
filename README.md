@@ -38,6 +38,9 @@
   - [☘️ Botanics](#-botanics)
 - [🔭 Geography](#-geography)
 - [📡 Journalism](#-journalism)
+- [⚖️ Law](#-law)
+  - [👤 Human Rights](#-human-rights)
+- [💼 Business](#-business)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -200,3 +203,15 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 # 📡 Journalism
 * 🇺🇦 📹 [Як писати про економіку без помилок | EdEra](https://courses.ed-era.com/courses/course-v1:VOXU-KSE-EdEra+SEJ101+2017/about)
+
+
+
+# ⚖️ Law
+## 👤 Human Rights
+* 🇺🇦 📹 [Європейський механізм захисту прав людини | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about)
+
+
+
+# 💼 Business
+* 🇺🇦 📹 [Експорт, ринки ЄС та інтернаціоналізація бізнесу | EdEra](https://courses.ed-era.com/courses/EdEra/ib102/IB102/about)
+* 🇺🇦 📹 [Smart exporter: електронні ресурси, регулювання та вимоги для експорту до ЄС | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+ib103+IB103/about)
