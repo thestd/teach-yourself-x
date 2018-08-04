@@ -1,4 +1,4 @@
-# 🤓 Teach yourself (insert something here)
+# 🤓 Teach yourself _something_
 > 🤓 Вивчи самостійно (встав щось тут)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -40,6 +40,7 @@
 - [📡 Journalism](#-journalism)
 - [⚖️ Law](#-law)
   - [👤 Human Rights](#-human-rights)
+- [👨‍🏫👩‍🏫 Education](#%E2%80%8D%E2%80%8D-education)
 - [💼 Business](#-business)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
