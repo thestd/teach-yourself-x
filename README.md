@@ -191,6 +191,8 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 
 # ☣️ Biology
+* 🇺🇦 📹 [Автостопом по біології | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra-Osvitoria+BIO+1/about)
+
 ## ☘️ Botanics
 * 🇺🇦 📹 [Біологія. Ботаніка | EdEra](https://courses.ed-era.com/courses/EdEra/b102/B102/about)
 
