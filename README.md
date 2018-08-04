@@ -11,7 +11,7 @@
 - [🖥 Technologies](#%F0%9F%96%A5-technologies)
   - [⌨️ Coding](#-coding)
     - [С➕➕](#%D1%81)
-    - [Delphi](#delphi)
+    - [🏛 Delphi](#%F0%9F%8F%9B-delphi)
     - [🐍 Python](#-python)
     - [💎 Ruby](#-ruby)
     - [📜 HTML / CSS](#-html--css)
@@ -78,7 +78,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * [🇬🇧 item 1](#link1)
 * [💲 🇺🇦 item 2](#link2) -->
 
-### Delphi
+### 🏛 Delphi
 * 🇺🇦 📹 [Уроки Lararus (Delphi) | YouTube](https://www.youtube.com/watch?v=NKvCKehsLOg&index=24&list=PLkrIjd2V-ZRUsynhVNTKiry2-K5Ph8OZF)
 * 🇬🇧 ~~💲~~ 📹 [Delphi Programming For Absolute Beginners | Embarcadero Academy](https://www.embarcaderoacademy.com/p/delphi-programming-for-absolute-beginners-in-firemonkey/?product_id=382310&coupon_code=SROSELTBEGINNERFREE)
 
