@@ -196,6 +196,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 ## ☘️ Botanics
 * 🇺🇦 📹 [Біологія. Ботаніка | EdEra](https://courses.ed-era.com/courses/EdEra/b102/B102/about)
+* 🇺🇦 📚 [Рослини, гриби та лишайники | EdEra](https://www.ed-era.com/books/biology)
 
 
 
@@ -224,6 +225,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇺🇦 📹 [Недискримінаційний підхід у навчанні | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra-Studena+Inc+1/about)
 * 🇺🇦 📹 [Робота вчителя початкових класів із дітьми з особливими освітніми потребами | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra-SmartOsvita+Inc+1/about)
 * 🇺🇦 📚 [Інтерактивний посібник-глосарій для вчителів початкових класів | EdEra](https://edera.gitbooks.io/glossary)
+* 🇺🇦 📚 [Актикорупційний урок | EdEra](https://www.ed-era.com/books/anticorruption-lesson)
 
 
 
