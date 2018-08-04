@@ -1,5 +1,5 @@
-# 🤓 Teach yourself (insert technology here)
-> 🤓 Вивчи самостійно (встав технологію тут)
+# 🤓 Teach yourself (insert something here)
+> 🤓 Вивчи самостійно (встав щось тут)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
