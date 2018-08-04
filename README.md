@@ -214,6 +214,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 ## 👤 Human Rights
 * 🇺🇦 📹 [Європейський механізм захисту прав людини | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about)
 * 🇺🇦 📹 [Європейський механізм захисту прав людини. Частина 2 | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+HR201+hr201/about)
+* 🇺🇦 📚 [Європейський механізм захисту прав людини | EdEra](https://edera.gitbooks.io/human-rights/)
 
 
 
