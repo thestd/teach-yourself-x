@@ -18,6 +18,7 @@
   - [🗳 Unity3D](#%F0%9F%97%B3-unity3d)
   - [🤖 Robotics](#-robotics)
     - [📟 Arduino](#-arduino)
+    - [📟 Makeblock mBot](#-makeblock-mbot)
   - [💈 Design](#-design)
     - [🖍 PhotoShop](#%F0%9F%96%8D-photoshop)
   - [🗂 MS Office](#%F0%9F%97%82-ms-office)
@@ -103,6 +104,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 ### 📜 HTML / CSS
 * 🇺🇦 📹 [Створення веб-сторінки з адаптивним дизайном | YouTube](https://www.youtube.com/watch?v=lZUB_23QZP8)
+* 🇺🇦 📹 [Воркшопи від Web Academy | YouTube](https://www.youtube.com/watch?v=6YAJ7UIKPD8&list=PLOwnXSCq7AoHmML6XUi63154WjTNl-CKx)
 
 
 ## 🗳 Unity3D
@@ -112,6 +114,9 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 ## 🤖 Robotics
 ### 📟 Arduino
 * 🇺🇦 📹 [Курс “Основи робототехніки” | YouTube](https://www.youtube.com/playlist?list=PLOwnXSCq7AoH8EeLVUT2t062rAf9W1UN6)
+
+### 📟 Makeblock mBot
+* 🇺🇦 📹 [Курс "Основи Робототехніки Makeblock mBot" | YouTube](https://www.youtube.com/watch?v=QSDy-LTJtfE&list=PLOwnXSCq7AoHXTSOsCxKBF017h0Up55sr)
 
 ## 💈 Design
 ### 🖍 PhotoShop
