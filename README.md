@@ -24,6 +24,7 @@
   - [🗂 MS Office](#%F0%9F%97%82-ms-office)
     - [📄 Word](#-word)
     - [🗓 Excel](#%F0%9F%97%93-excel)
+  - [📊 Data Science](#-data-science)
 - [🏳️‍🌈 Languages](#%E2%80%8D-languages)
   - [🇬🇧 English](#-english)
 
@@ -131,6 +132,8 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇺🇦 📹 [Практикум з Excel | YouTube](https://www.youtube.com/watch?v=ymQvCqEJuag)
 * 🇺🇦 📹 [Основи роботи в табличному процесорі | YouTube](https://www.youtube.com/watch?v=JuxxUkIX08E)
 
+## 📊 Data Science
+* 🇺🇦 📹 [Вступний відео-курс з основ Data Science | YouTube](https://www.youtube.com/watch?v=9sC2Cnpds9Q&list=PLOwnXSCq7AoGPtlEEhExbEEGc267d1I7n)
 
 
 # 🏳️‍🌈 Languages
