@@ -209,8 +209,11 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 
 # ⚖️ Law
+* 🇺🇦 📹 [Людина та держава. Правила гри | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+LAW101+law101/about)
+
 ## 👤 Human Rights
 * 🇺🇦 📹 [Європейський механізм захисту прав людини | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about)
+* 🇺🇦 📹 [Європейський механізм захисту прав людини. Частина 2 | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra+HR201+hr201/about)
 
 
 
