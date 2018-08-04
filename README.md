@@ -15,13 +15,13 @@
     - [🐍 Python](#-python)
     - [💎 Ruby](#-ruby)
     - [📜 HTML / CSS](#-html--css)
-- [🎮 Games Development](#-games-development)
-  - [🗳 Unity3D](#%F0%9F%97%B3-unity3d)
   - [💈 Design](#-design)
     - [🖍 PhotoShop](#%F0%9F%96%8D-photoshop)
   - [🗂 MS Office](#%F0%9F%97%82-ms-office)
     - [📄 Word](#-word)
     - [🗓 Excel](#%F0%9F%97%93-excel)
+- [🎮 Games Development](#-games-development)
+  - [🗳 Unity3D](#%F0%9F%97%B3-unity3d)
 - [🏳️‍🌈 Languages](#%E2%80%8D-languages)
   - [🇬🇧 English](#-english)
 
@@ -104,11 +104,6 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇺🇦 📹 [Створення веб-сторінки з адаптивним дизайном | YouTube](https://www.youtube.com/watch?v=lZUB_23QZP8)
 
 
-# 🎮 Games Development
-## 🗳 Unity3D
-* 🇺🇦 📹 [Unity3D - проект "Моя RPG" | YouTube](https://www.youtube.com/watch?v=s8rmw6dNTNo&list=PLkk6Hde5Qgtp7LszDfFOIpWTPT8VK9W_a)
-
-
 ## 💈 Design
 ### 🖍 PhotoShop
 * 🇺🇦 📹 [Уроки Фотошоп українською | YouTube](https://www.youtube.com/watch?v=Y6TAJSU1A08)
@@ -121,6 +116,11 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 ### 🗓 Excel
 * 🇺🇦 📹 [Практикум з Excel | YouTube](https://www.youtube.com/watch?v=ymQvCqEJuag)
 * 🇺🇦 📹 [Основи роботи в табличному процесорі | YouTube](https://www.youtube.com/watch?v=JuxxUkIX08E)
+
+
+# 🎮 Games Development
+## 🗳 Unity3D
+* 🇺🇦 📹 [Unity3D - проект "Моя RPG" | YouTube](https://www.youtube.com/watch?v=s8rmw6dNTNo&list=PLkk6Hde5Qgtp7LszDfFOIpWTPT8VK9W_a)
 
 
 
