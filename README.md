@@ -27,6 +27,17 @@
   - [📊 Data Science](#-data-science)
 - [🏳️‍🌈 Languages](#%E2%80%8D-languages)
   - [🇬🇧 English](#-english)
+  - [🇺🇦 Ukrainian](#-ukrainian)
+- [🏰 History](#-history)
+  - [🇺🇦 Ukraine](#-ukraine)
+- [📊 Math](#-math)
+  - [🔣 Arithmetics](#-arithmetics)
+- [🗜 Physics](#%F0%9F%97%9C-physics)
+  - [⚙️ Mechanics](#-mechanics)
+- [☣️ Biology](#-biology)
+  - [☘️ Botanics](#-botanics)
+- [🔭 Geography](#-geography)
+- [📡 Journalism](#-journalism)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -150,3 +161,42 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇬🇧🇺🇦 📹 [English For IT | YouTube](https://www.youtube.com/watch?v=4PdV3NyPbG8&list=PLOwnXSCq7AoGRr7EuifDZiTAPpi9X1MER)
 * 🇬🇧🇺🇦 📱 [Додатки | British Council](http://www.britishcouncil.org.ua/english/learn-online/apps)
 * 🇬🇧 [LearnEnglish | British Council](http://learnenglish.britishcouncil.org/en/)
+
+## 🇺🇦 Ukrainian
+* 🇺🇦 📹 [Українська мова. Від фонетики до морфології | EdEra](https://courses.ed-era.com/courses/EdEra/u102/U102/about)
+* 🇺🇦 📹 [Лайфхаки з української мови | EdEra](https://courses.ed-era.com/courses/course-v1:Osvitoria_and_EdEra+lifehacks+101/about)
+* 🇺🇦 📹 [Лайфхаки з української літератури | EdEra](https://courses.ed-era.com/courses/course-v1:Osvitoria_and_EdEra+lifehacks+201/about)
+
+
+
+# 🏰 History
+## 🇺🇦 Ukraine
+* 🇺🇦 📹 [Історія України. Зародження української нації | EdEra](https://courses.ed-era.com/courses/EdEra/hi102/Hi102/about)
+
+
+
+# 📊 Math
+## 🔣 Arithmetics
+* 🇺🇦 📹 [Арифметика, рівняння та нерівності | EdEra](https://courses.ed-era.com/courses/EdEra/m102/M102/about)
+
+
+
+# 🗜 Physics
+## ⚙️ Mechanics
+* 🇺🇦 📹 [Фізика. Механіка | EdEra](https://courses.ed-era.com/courses/EdEra/p102/P102/about)
+
+
+
+# ☣️ Biology
+## ☘️ Botanics
+* 🇺🇦 📹 [Біологія. Ботаніка | EdEra](https://courses.ed-era.com/courses/EdEra/b102/B102/about)
+
+
+
+# 🔭 Geography
+* 🇺🇦 📹 [Загальна географія | EdEra](https://courses.ed-era.com/courses/EdEra/g102/G102/about)
+
+
+
+# 📡 Journalism
+* 🇺🇦 📹 [Як писати про економіку без помилок | EdEra](https://courses.ed-era.com/courses/course-v1:VOXU-KSE-EdEra+SEJ101+2017/about)
