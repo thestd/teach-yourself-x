@@ -34,11 +34,13 @@ The purpose of this - share the knowledge around Ukraine.
 > You'll find 🇬🇧 English and 🇺🇦 Ukrainian resources here.<br>
 Free and 💲 Paid.<br>
 Some of them are 📹 videos.<br>
+Some of them are 📱 mobile apps.<br>
 Some of them are 📚 books.
 
 > Ви знайдете тут ресурси 🇬🇧 англійською та 🇺🇦 українською мовами.<br>
 Безкоштовні та 💲 платні.<br>
 Деякі з них - 📹 відео.<br>
+Деякі з них - 📱 мобільні застосунки.<br>
 Деякі з них - 📚 книги.
 
 # ❤️ Contributing
@@ -53,26 +55,29 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 <!-- ### ⛏ С
 * [🇬🇧 item 1](#link1)
-* [🇺🇦 item 2](#link2)
+* [🇺🇦 item 2](#link2) -->
 
 ### С➕➕
-* [💲 🇬🇧 item 1](#link1)
-* [🇺🇦 item 2](#link2)
+* 🇺🇦 📹 [Створення програми на C++ | YouTube](https://www.youtube.com/user/UAprogramming)
+* 🇺🇦 📹 [Уроки C++ | YouTube](https://www.youtube.com/watch?v=1NHBOKdm7VM&list=PLrLFwFe0WkXvTWShuOukFsYNAyP9eclTG)
+* 🇺🇦 📹 [ЧНУ відеоуроки C++ | YouTube](https://www.youtube.com/watch?v=nqwoQyAYSUI)
 
-### С#️⃣
-* [🇬🇧 item 1](#link1)
-* [💲 🇺🇦 item 2](#link2)
-
-### 🐍 Python
+<!-- ### С#️⃣
 * [🇬🇧 item 1](#link1)
 * [💲 🇺🇦 item 2](#link2) -->
+
+### 🐍 Python
+* 🇺🇦 📹 [Введення в Python | YouTube](https://www.youtube.com/watch?v=JnDbpE_MdIE)
+* 🇺🇦 📹 [Програмування мовою Python | YouTube](https://www.youtube.com/watch?v=wT1OjsMHP3k)
+* 🇺🇦 📹 [Якби Тарас Шевченко знав Python | YouTube](https://www.youtube.com/watch?v=IK1BYK_y3cI)
 
 ### 💎 Ruby
 * 🇺🇦 💲 📹 [Ruby Education | CURSOR EDUCATION](https://cursor.education/uk)
 * 🇬🇧 [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby)
 * 🇬🇧 [Ruby Coding Challenges | Programmr](http://www.programmr.com/exercises?lang=ruby)
 * 🇬🇧 💲 [Ruby Training and Tutorials | Lynda](https://www.lynda.com/Ruby-training-tutorials/303-0.html)
-* 🇬🇧 💲 [Building Ruby Gems | Pluralsight](https://www.pluralsight.com/courses/building-ruby-gems)
+* 🇬🇧 💲* [Ruby Fundamentals | Pluralsight](https://www.pluralsight.com/courses/ruby-fundamentals)
+* 🇬🇧 💲* [Building Ruby Gems | Pluralsight](https://www.pluralsight.com/courses/building-ruby-gems)
 * 🇬🇧 💲* [Rails Development | TeamTreehouse](https://teamtreehouse.com/tracks/rails-development)
 * 🇬🇧 💲 📹 [The Complete Ruby on Rails Developer Course | Udemy](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/)
 * 🇬🇧 💲 📹 [Beginners Ruby Programming Training | Udemy](https://www.udemy.com/ruby-programming/)
@@ -83,7 +88,38 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇬🇧 💲 📚 [Learn Ruby the Hard Way | Amazon](https://www.amazon.com/gp/product/032188499X/?tag=c9cc-20)
 * 🇬🇧 💲 📚 [The Ruby Programming Language: Everything You Need to Know | Amazon](https://www.amazon.com/gp/product/0596516177/?tag=c9cc-20)
 
+### HTML / CSS
+* 🇺🇦 📹 [Створення веб-сторінки з адаптивним дизайном | YouTube](https://www.youtube.com/watch?v=lZUB_23QZP8)
+
+
+# Games Development
+## Unity3D
+* 🇺🇦 📹 [Unity3D - проект "Моя RPG" | YouTube](https://www.youtube.com/watch?v=s8rmw6dNTNo&list=PLkk6Hde5Qgtp7LszDfFOIpWTPT8VK9W_a)
+
+
+## 💈 Design
+### PhotoShop
+* 🇺🇦 📹 [Уроки Фотошоп українською | YouTube](https://www.youtube.com/watch?v=Y6TAJSU1A08)
+
+
+## MS Office
+### 📄 Word
+* 🇺🇦 📹 [Практикум з Word | YouTube](https://www.youtube.com/watch?v=3zRStr0hBto)
+
+### Excel
+* 🇺🇦 📹 [Практикум з Excel | YouTube](https://www.youtube.com/watch?v=ymQvCqEJuag)
+* 🇺🇦 📹 [Основи роботи в табличному процесорі | YouTube](https://www.youtube.com/watch?v=JuxxUkIX08E)
+
+
+
 # 🏳️‍🌈 Languages
 ## 🇬🇧 English
+* 🇺🇦 [12 порад, як швидко вивчити англійську і як це зробити онлайн | Твоє Місто](http://tvoemisto.tv/news/12_porad_yak_shvydko_vyvchyty_angliysku_66614.html)
 * 🇺🇦 📹 [Англійська мова. Морфологія | EdEra](https://courses.ed-era.com/courses/EdEra/e102/E102/about)
+* 🇺🇦 📹 [Англійська по-простому! | YouTube](https://www.youtube.com/user/Rostish14)
+* 🇺🇦 📹 [Уроки англійської мови | YouTube](https://www.youtube.com/watch?v=SaXBxlFrYt8&list=PLiY5YQfYGiwlHeRr8-1iS5bdnnvPaQ9Kd)
+* 🇺🇦 📹 [Курс англійської мови | YouTube](https://www.youtube.com/watch?v=LDqwjhcrSms&list=PLowOFQ-Uz8jds-SMtjIixYsA9gXLhPM-r)
+* 🇺🇦 📹 [150 англійські фрази для початківців  | YouTube](https://www.youtube.com/watch?v=G3AQRvUkKBQ)
+* 🇺🇦 +📱 [Англійська лише 5 хв. на день. Безкоштовно! | Duolingo](https://www.duolingo.com/course/en/uk/Learn-English-Online)
+* 🇬🇧🇺🇦 📱 [Додатки | British Council](http://www.britishcouncil.org.ua/english/learn-online/apps)
 * 🇬🇧 [LearnEnglish | British Council](http://learnenglish.britishcouncil.org/en/)
