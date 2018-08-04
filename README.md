@@ -9,12 +9,21 @@
 - [✍️ Note](#%EF%B8%8F-note)
 - [❤️ Contributing](#-contributing)
 - [🖥 Technologies](#%F0%9F%96%A5-technologies)
-  - [⌨️ Programming languages](#-programming-languages)
-    - [💎 Ruby](#-ruby)
-    - [🐍 Python](#-python)
-    - [⛏ С](#%E2%9B%8F-%D1%81)
+  - [⌨️ Coding](#-coding)
     - [С➕➕](#%D1%81)
-    - [С#️⃣](#%D1%81%EF%B8%8F%E2%83%A3)
+    - [Delphi](#delphi)
+    - [🐍 Python](#-python)
+    - [💎 Ruby](#-ruby)
+    - [📜 HTML / CSS](#-html--css)
+- [🎮 Games Development](#-games-development)
+  - [🗳 Unity3D](#%F0%9F%97%B3-unity3d)
+  - [💈 Design](#-design)
+    - [🖍 PhotoShop](#%F0%9F%96%8D-photoshop)
+  - [🗂 MS Office](#%F0%9F%97%82-ms-office)
+    - [📄 Word](#-word)
+    - [🗓 Excel](#%F0%9F%97%93-excel)
+- [🏳️‍🌈 Languages](#%E2%80%8D-languages)
+  - [🇬🇧 English](#-english)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -66,6 +75,9 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * [🇬🇧 item 1](#link1)
 * [💲 🇺🇦 item 2](#link2) -->
 
+### Delphi
+* 🇺🇦 📹 [Уроки Lararus (Delphi) | YouTube](https://www.youtube.com/watch?v=NKvCKehsLOg&index=24&list=PLkrIjd2V-ZRUsynhVNTKiry2-K5Ph8OZF)
+
 ### 🐍 Python
 * 🇺🇦 📹 [Введення в Python | YouTube](https://www.youtube.com/watch?v=JnDbpE_MdIE)
 * 🇺🇦 📹 [Програмування мовою Python | YouTube](https://www.youtube.com/watch?v=wT1OjsMHP3k)
@@ -88,25 +100,25 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 * 🇬🇧 💲 📚 [Learn Ruby the Hard Way | Amazon](https://www.amazon.com/gp/product/032188499X/?tag=c9cc-20)
 * 🇬🇧 💲 📚 [The Ruby Programming Language: Everything You Need to Know | Amazon](https://www.amazon.com/gp/product/0596516177/?tag=c9cc-20)
 
-### HTML / CSS
+### 📜 HTML / CSS
 * 🇺🇦 📹 [Створення веб-сторінки з адаптивним дизайном | YouTube](https://www.youtube.com/watch?v=lZUB_23QZP8)
 
 
-# Games Development
-## Unity3D
+# 🎮 Games Development
+## 🗳 Unity3D
 * 🇺🇦 📹 [Unity3D - проект "Моя RPG" | YouTube](https://www.youtube.com/watch?v=s8rmw6dNTNo&list=PLkk6Hde5Qgtp7LszDfFOIpWTPT8VK9W_a)
 
 
 ## 💈 Design
-### PhotoShop
+### 🖍 PhotoShop
 * 🇺🇦 📹 [Уроки Фотошоп українською | YouTube](https://www.youtube.com/watch?v=Y6TAJSU1A08)
 
 
-## MS Office
+## 🗂 MS Office
 ### 📄 Word
 * 🇺🇦 📹 [Практикум з Word | YouTube](https://www.youtube.com/watch?v=3zRStr0hBto)
 
-### Excel
+### 🗓 Excel
 * 🇺🇦 📹 [Практикум з Excel | YouTube](https://www.youtube.com/watch?v=ymQvCqEJuag)
 * 🇺🇦 📹 [Основи роботи в табличному процесорі | YouTube](https://www.youtube.com/watch?v=JuxxUkIX08E)
 
