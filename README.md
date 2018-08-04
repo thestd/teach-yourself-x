@@ -80,6 +80,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 ### Delphi
 * 🇺🇦 📹 [Уроки Lararus (Delphi) | YouTube](https://www.youtube.com/watch?v=NKvCKehsLOg&index=24&list=PLkrIjd2V-ZRUsynhVNTKiry2-K5Ph8OZF)
+* 🇬🇧 ~~💲~~ 📹 [Delphi Programming For Absolute Beginners | Embarcadero Academy](https://www.embarcaderoacademy.com/p/delphi-programming-for-absolute-beginners-in-firemonkey/?product_id=382310&coupon_code=SROSELTBEGINNERFREE)
 
 ### 🐍 Python
 * 🇺🇦 📹 [Введення в Python | YouTube](https://www.youtube.com/watch?v=JnDbpE_MdIE)
@@ -106,6 +107,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 ### 📜 HTML / CSS
 * 🇺🇦 📹 [Створення веб-сторінки з адаптивним дизайном | YouTube](https://www.youtube.com/watch?v=lZUB_23QZP8)
 * 🇺🇦 📹 [Воркшопи від Web Academy | YouTube](https://www.youtube.com/watch?v=6YAJ7UIKPD8&list=PLOwnXSCq7AoHmML6XUi63154WjTNl-CKx)
+* 🇬🇧 📹 [HTML5 and CSS3 - For Absolute Beginners | YouTube](https://www.youtube.com/watch?v=Aj4CgCw19sM&list=PLfrySFqYRf2d0Waaf64xwpz9cbI1n4YMG)
 
 
 ## 🗳 Unity3D
