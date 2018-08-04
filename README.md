@@ -220,7 +220,7 @@ Please, [raise an issue](https://github.com/thestd/teach-yourself-x/issues/new) 
 
 
 
-# 💼 Education
+# 👨‍🏫👩‍🏫 Education
 * 🇺🇦 📹 [Онлайн-курс для вчителів початкової школи | EdEra](https://courses.ed-era.com/courses/course-v1:MON-EDERA-OSVITORIA+ST101+st101/about)
 * 🇺🇦 📹 [Недискримінаційний підхід у навчанні | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra-Studena+Inc+1/about)
 * 🇺🇦 📹 [Робота вчителя початкових класів із дітьми з особливими освітніми потребами | EdEra](https://courses.ed-era.com/courses/course-v1:EdEra-SmartOsvita+Inc+1/about)
