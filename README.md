@@ -34,7 +34,7 @@
 So I bumped into idea to collect study resources into one repository - as much resources as I can find.<br>
 The purpose of this - share the knowledge around Ukraine.
 
-> Як [автор рерозиторію](https://github.com/faradzhev), я отримав натхнення від [@danistefanovic](https://github.com/danistefanovic) з його репозиторію [build-your-own-x](https://github.com/danistefanovic/build-your-own-x), що містить посилання на різні інструкції про створення власної X технології з нуля.<br>
+> Як [автор рерозиторію](https://github.com/faradzhev), я отримав надхнення від [@danistefanovic](https://github.com/danistefanovic) з його репозиторію [build-your-own-x](https://github.com/danistefanovic/build-your-own-x), що містить посилання на різні інструкції про створення власної X технології з нуля.<br>
 Мене охопила ідея зібрати навчальні ресурси в один репозиторій - стільки ресурсів, скільки я зможу знайти.<br>
 Мета цього - поширювати знання в Україні.
 
